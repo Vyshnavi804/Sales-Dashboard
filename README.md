@@ -31,7 +31,7 @@ Files Included
 - Sales_Data.xlsx
 
 Dashboard Preview
-"dashboard.jpeg"
+![Dashboard Preview](dashboard.jpeg)
 
 Learning Outcomes
 Through this project, I learned:
